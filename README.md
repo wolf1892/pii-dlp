@@ -74,14 +74,6 @@ Tracking table here: [Drive_CSV](https://docs.google.com/spreadsheets/d/1Fn_9sUj
 | `GEOCOORD2`   | Geographical coordinates (second instance)    |
 | `LASTNAME3`   | Last name (third instance)                    |
 
-## Explanation
 
-- **GDPR**: General Data Protection Regulation
-- **CCPA**: California Consumer Privacy Act
-- **HIPAA**: Health Insurance Portability and Accountability Act
-- **GLBA**: Gramm-Leach-Bliley Act
-- **PCI DSS**: Payment Card Industry Data Security Standard
-- **FERPA**: Family Educational Rights and Privacy Act
-- **COPPA**: Children’s Online Privacy Protection Act
 
 
