@@ -9,6 +9,9 @@ For each datatype in table, test it against chat_logs, dummy_json_logs and syslo
 Share your result here
 [CSV](https://docs.google.com/spreadsheets/d/1Fn_9sUjVp-Uu89L6bKwGjG_iFMsdCaIVhrWKIZVeT5o/edit?usp=sharing)
 
+Use the colab:
+[Colab](https://colab.research.google.com/drive/18lUSQ0glbbb7u-18IXemtuSWHcxPFtFm?usp=sharing)
+
 ## Why?
 
 Given that modal will go through some finetuning, everytime training is completed. Modal needs to be run across the test_cases to ensure we are not losing progress.
