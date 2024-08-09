@@ -1,0 +1,28 @@
+{
+  "manifest_version": 2,
+
+  "name": "dev Traffic Connections",
+  "description": "dev",
+  "version": "0.0.2",
+
+  "background": {
+	"scripts": ["static/background.js"]
+  },
+  "icons": {
+    "16": "static/offline-16.png",
+    "48": "static/offline-48.png",
+    "128": "static/offline-128.png"
+  },
+  "browser_action": {
+    "default_icon": "static/offline.png",
+    "default_popup": "static/popup.html"
+  },
+  "permissions": [
+	"webRequest",
+	"http://*/",
+	"https://*/"
+  ],
+  "web_accessible_resources": [
+    "static/offline.png", "static/connected.gif"
+  ]
+}
